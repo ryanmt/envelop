@@ -1,3 +1,5 @@
+# WARNING: This is reset to track a v8 rewrite, not main. Don't use. Don't update
+
 ## Envelop
 
 `envelop` is a lightweight JavaScript (/TypeScript) library for wrapping GraphQL execution layer and
